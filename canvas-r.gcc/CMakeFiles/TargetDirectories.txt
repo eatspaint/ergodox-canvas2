@@ -1,0 +1,5 @@
+/Users/christianfuller/Desktop/crystallhand-controller/Keyboards/canvas-r.gcc/CMakeFiles/rebuild_cache.dir
+/Users/christianfuller/Desktop/crystallhand-controller/Keyboards/canvas-r.gcc/CMakeFiles/edit_cache.dir
+/Users/christianfuller/Desktop/crystallhand-controller/Keyboards/canvas-r.gcc/CMakeFiles/SizeAfter.dir
+/Users/christianfuller/Desktop/crystallhand-controller/Keyboards/canvas-r.gcc/CMakeFiles/kiibohd.elf.dir
+/Users/christianfuller/Desktop/crystallhand-controller/Keyboards/canvas-r.gcc/CMakeFiles/kll_regen.dir
